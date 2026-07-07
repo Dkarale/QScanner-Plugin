@@ -1,0 +1,9 @@
+{
+  "name": "qscanner-test-monorepo-frontend",
+  "version": "1.0.0",
+  "description": "TD-13: Monorepo frontend package — vulnerable npm deps for walk-up lock-file test",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0"
+  }
+}

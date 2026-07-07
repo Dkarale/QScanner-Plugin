@@ -1,0 +1,16 @@
+{
+  "lockfileVersion": 0,
+  "workspaces": {
+    "": {
+      "name": "qscanner-test-bun",
+      "dependencies": {
+        "lodash": "4.17.15",
+        "minimist": "1.2.0"
+      }
+    }
+  },
+  "packages": {
+    "lodash": ["lodash@4.17.15", "", {}, "sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRC/Wfk69b0MWP08OfLqvWbSBZn0NKUQXFZ0dS3CPw=="],
+    "minimist": ["minimist@1.2.0", "", {}, "sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ="]
+  }
+}

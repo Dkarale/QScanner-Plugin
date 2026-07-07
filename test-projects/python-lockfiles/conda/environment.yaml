@@ -1,0 +1,12 @@
+name: qscanner-test-conda
+# TD-08d: Conda environment with known vulnerable dependencies
+# Known CVEs: Pillow 8.3.1 (CVE-2023-44271), cryptography 3.3.1 (CVE-2023-49083), PyYAML 5.3.1 (CVE-2020-14343)
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pillow=8.3.1
+  - cryptography=3.3.1
+  - pyyaml=5.3.1
+  - urllib3=1.26.4

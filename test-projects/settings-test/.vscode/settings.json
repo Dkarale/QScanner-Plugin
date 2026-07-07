@@ -1,0 +1,18 @@
+{
+  "qscanner.binaryPath": "/opt/tools/qscanner",
+  "qscanner.pod": "us1",
+  "qscanner.gatewayUrl": "https://gateway-stg.qualys.com",
+  "qscanner.excludeDirs": ["node_modules", "vendor", ".git", ".venv"],
+  "qscanner.excludeFiles": ["test-requirements.txt"],
+  "qscanner.showOnlyPatchable": false,
+  "qscanner.scanTimeout": 300,
+  "qscanner.detectionPriority": "cvss",
+  "qscanner.proxy": "",
+  "qscanner.cacheDir": "/tmp/qscanner-cache",
+  "qscanner.certPath": "",
+  "qscanner.maxNetworkRetries": 3,
+  "qscanner.skipVerifyTls": false,
+  "qscanner.version": "latest",
+  "qscanner.enableComplianceScan": false,
+  "qscanner.complianceBenchmarks": ["CIS_DOCKER_1.6"]
+}

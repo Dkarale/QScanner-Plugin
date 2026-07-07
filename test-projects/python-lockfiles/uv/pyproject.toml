@@ -1,0 +1,10 @@
+[project]
+name = "qscanner-test-uv"
+version = "0.1.0"
+description = "TD-08c: Python uv project with known vulnerable dependencies"
+requires-python = ">=3.9"
+dependencies = [
+    "Pillow==8.3.1",
+    "cryptography==3.3.1",
+    "PyYAML==5.3.1",
+]

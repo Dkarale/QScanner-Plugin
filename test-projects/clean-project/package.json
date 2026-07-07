@@ -1,0 +1,9 @@
+{
+  "name": "qscanner-test-clean",
+  "version": "1.0.0",
+  "description": "TD-11: Clean project with no known vulnerable dependencies (empty state test)",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "5.3.0"
+  }
+}

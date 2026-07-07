@@ -1,0 +1,18 @@
+[libraries]
+  "com.fasterxml.jackson.core:jackson-annotations:2.12.3": {
+    configurations: [compile, runtime]
+  }
+  "com.fasterxml.jackson.core:jackson-core:2.12.3": {
+    configurations: [compile, runtime]
+  }
+  "com.fasterxml.jackson.core:jackson-databind:2.12.3": {
+    configurations: [compile, runtime]
+  }
+  "org.apache.logging.log4j:log4j-api:2.14.1": {
+    configurations: [compile, runtime]
+  }
+  "org.apache.logging.log4j:log4j-core:2.14.1": {
+    configurations: [compile, runtime]
+  }
+[scala]
+  version: 2.13.8

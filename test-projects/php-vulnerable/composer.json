@@ -1,0 +1,10 @@
+{
+  "name": "qscanner/test-php-vulnerable",
+  "description": "TD-06: PHP test project with known vulnerable Composer dependencies",
+  "require": {
+    "symfony/http-foundation": "4.4.0",
+    "guzzlehttp/guzzle": "6.5.4",
+    "monolog/monolog": "1.25.0",
+    "phpunit/phpunit": "8.5.0"
+  }
+}

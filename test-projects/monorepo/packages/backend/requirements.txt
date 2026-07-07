@@ -1,0 +1,4 @@
+# TD-13: Monorepo backend — vulnerable pip deps for walk-up lock-file test
+Pillow==8.3.1
+cryptography==3.3.1
+PyYAML==5.3.1

@@ -1,0 +1,16 @@
+{
+  "name": "qscanner-test-npm-vulnerable",
+  "version": "1.0.0",
+  "description": "TD-01: Node.js npm test project with known vulnerable dependencies",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "axios": "0.19.0",
+    "minimist": "1.2.0",
+    "path-parse": "1.0.6",
+    "hosted-git-info": "2.7.1",
+    "ws": "6.2.1",
+    "glob-parent": "3.1.0",
+    "browserslist": "4.14.2"
+  }
+}

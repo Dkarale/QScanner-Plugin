@@ -1,0 +1,11 @@
+[package]
+name = "qscanner-test-rust"
+version = "0.1.0"
+edition = "2021"
+description = "TD-05: Rust test project with known vulnerable Cargo dependencies"
+
+[dependencies]
+time = "0.1.44"
+openssl = "0.10.45"
+regex = "1.5.4"
+crossbeam-utils = "0.8.4"

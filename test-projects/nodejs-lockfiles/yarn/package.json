@@ -1,0 +1,10 @@
+{
+  "name": "qscanner-test-yarn",
+  "version": "1.0.0",
+  "description": "TD-10a: Node.js Yarn project with known vulnerable dependencies",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0",
+    "axios": "0.19.0"
+  }
+}

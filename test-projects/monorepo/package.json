@@ -1,0 +1,12 @@
+{
+  "name": "qscanner-test-monorepo-root",
+  "version": "1.0.0",
+  "description": "TD-13: Monorepo workspace root — clean (no vulnerable deps). Vulnerable deps are in packages/frontend and packages/backend.",
+  "workspaces": [
+    "packages/frontend",
+    "packages/backend"
+  ],
+  "dependencies": {
+    "chalk": "5.3.0"
+  }
+}

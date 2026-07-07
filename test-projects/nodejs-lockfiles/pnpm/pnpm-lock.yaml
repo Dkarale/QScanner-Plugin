@@ -1,0 +1,30 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  lodash:
+    specifier: 4.17.15
+    version: 4.17.15
+  minimist:
+    specifier: 1.2.0
+    version: 1.2.0
+  axios:
+    specifier: 0.19.0
+    version: 0.19.0
+
+packages:
+
+  /axios@0.19.0:
+    resolution: {integrity: sha512-1uvKqKQta3KBxIz14F2v06AEHZ/dIoeKfbTRkK1E5oqjDnuEerLmYTgJB5AiQZHJcljpg1TuRzdjDR06qNk0==}
+    dev: false
+
+  /lodash@4.17.15:
+    resolution: {integrity: sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRC/Wfk69b0MWP08OfLqvWbSBZn0NKUQXFZ0dS3CPw==}
+    dev: false
+
+  /minimist@1.2.0:
+    resolution: {integrity: sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=}
+    dev: false

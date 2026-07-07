@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+!test-projects/settings-test/.vscode/
+*.swp
+*.swo
+
+# Node
+node_modules/
+!test-projects/php-vulnerable/vendor/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Go
+*.exe
+
+# Rust
+target/
+
+# Java
+*.class
+*.jar
+build/
+.gradle/
+
+# .NET
+bin/
+obj/
+*.user
+
+# Misc
+*.log

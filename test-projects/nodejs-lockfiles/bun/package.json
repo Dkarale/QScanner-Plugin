@@ -1,0 +1,9 @@
+{
+  "name": "qscanner-test-bun",
+  "version": "1.0.0",
+  "description": "TD-10b: Node.js Bun project with known vulnerable dependencies",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "minimist": "1.2.0"
+  }
+}
